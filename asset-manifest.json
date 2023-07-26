@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/springboard-project-3-infinite-scroll/static/css/main.b766c564.css",
+    "main.js": "/springboard-project-3-infinite-scroll/static/js/main.b06e90c5.js",
+    "static/js/787.7c7305f6.chunk.js": "/springboard-project-3-infinite-scroll/static/js/787.7c7305f6.chunk.js",
+    "index.html": "/springboard-project-3-infinite-scroll/index.html",
+    "main.b766c564.css.map": "/springboard-project-3-infinite-scroll/static/css/main.b766c564.css.map",
+    "main.b06e90c5.js.map": "/springboard-project-3-infinite-scroll/static/js/main.b06e90c5.js.map",
+    "787.7c7305f6.chunk.js.map": "/springboard-project-3-infinite-scroll/static/js/787.7c7305f6.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.b766c564.css",
+    "static/js/main.b06e90c5.js"
+  ]
+}

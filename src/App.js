@@ -1,23 +1,13 @@
-import logo from './logo.svg';
 import './App.css';
+import ImgComponent from './ImgComponent';
 
 function App() {
   return (
-    <div className="App">
-      <header className="App-header">
-        <img src={logo} className="App-logo" alt="logo" />
-        <p>
-          Edit <code>src/App.js</code> and save to reload.
-        </p>
-        <a
-          className="App-link"
-          href="https://reactjs.org"
-          target="_blank"
-          rel="noopener noreferrer"
-        >
-          Learn React
-        </a>
-      </header>
+    <div className="container">
+      <h1 className='fw-bold text-center text-success mt-4'>Springboard Project</h1>
+      <p className='h6 fw-bold text-wrap text-center mb-3'>Developed by <mark>Bishnu Thapa</mark></p>
+      <ImgComponent />
+ 
     </div>
   );
 }

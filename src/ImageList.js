@@ -42,7 +42,7 @@ function ImageList() {
                     }
                     next={() => fetchImages(6)}  // fixed to a function reference
                 >
-                    <div className="row g-2">
+                    <div className="row g-1">
                     {
                         loaded && Array.isArray(images) && images.map(img => (
                             <div className="col-lg-4 col-sm-4 col-12" key={img.id}>
